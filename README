@@ -1,0 +1,7 @@
+This repository contains an electronic solar tracking project in C and Python.
+
+Procedures were created to control servo motors, ldr sensors and arduino microprocessor.
+
+Some time libs like tmz and pandas were also registered.
+
+This project is under construction.
